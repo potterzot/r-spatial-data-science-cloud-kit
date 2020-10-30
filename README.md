@@ -2,7 +2,7 @@
 
 This repository contains tools and resources to supplement my talk at [The Workshop in Environmental Economics and Data Science (TWEEDS)](https://tweeds.io/) in October 2020.
 
-The slides for the talk are available [here](potter_tweeds2020.pdf).
+The slides for the talk are available [here](tweeds2020.pdf).
 
 ### Setting up an RStudio AWS Cloud System
 
